@@ -14,7 +14,7 @@ app.MapPut("/books", (Book book) =>
     }
     books[index] = book;
 });
-app.MapDelete("/book/{id}", (int id) => 
+app.MapDelete("/books/{id}", (int id) => 
 {
     var index = books.FindIndex((b) => b.Id == id);
     if (index < 0)
@@ -28,7 +28,7 @@ app.Run();
 public class Book 
 {
     public int Id { get; set; }
-    public string Name { get; set; }
-    public string Author { get; set; }
-    public DateOnly YearPubl { get; set; }
+    public string Name { get; set; } = string.Empty;
+    public string Author { get; set; } = string.Empty;
+    public string YearPubl { get; set; }
 }
