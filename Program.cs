@@ -1,7 +1,7 @@
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<BookDb>(options => {
-    options.UseSqlite(builder.Configuration.GetConnectionString("Sqllite"));
+    options.UseNpgsql(builder.Configuration.GetConnectionString("NpgSql"));
 });
 var app = builder.Build();
 if (app.Environment.IsDevelopment())

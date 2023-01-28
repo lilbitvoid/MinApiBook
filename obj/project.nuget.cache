@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "IPuvj3KluFijKJUopGLfVQTWrcdsXx9isK1/HB4Qt31E7UaIC0GZpSKbZ3+anw4Jgv6KvtpN6Xp1tC2lDhHGjQ==",
+  "dgSpecHash": "1BgdcGXxUH9W8MyWjv/vCeOIk/LhXIWf6Wd4ojetqlMU1oV8h3AK7vSbn6w3GcVcEPma0/oMDdN/kZ658ImU9A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Ivan\\Desktop\\MinimalApiProj\\MinApiBook\\MinApiBook\\MinApiBook.csproj",
   "expectedPackageFiles": [
@@ -20,6 +20,8 @@
     "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
     "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\npgsql\\7.0.1\\npgsql.7.0.1.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\7.0.1\\npgsql.entityframeworkcore.postgresql.7.0.1.nupkg.sha512",
     "C:\\Users\\Ivan\\.nuget\\packages\\sqlitepclraw.core\\2.1.2\\sqlitepclraw.core.2.1.2.nupkg.sha512",
     "C:\\Users\\Ivan\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\Ivan\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
