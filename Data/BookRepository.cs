@@ -45,4 +45,7 @@ public class BookRepository : IBookRepository
         bookFromDb.YearPubl = book.YearPubl;
         bookFromDb.Author = book.Author;
     }
+
+    public Task<List<Book>> GetBooksAsync(string name) => 
+        _context.Books.Where(book => book.Name.Contains(name)).Select(b => b).ToListAsync();
 }
