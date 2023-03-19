@@ -1,4 +1,4 @@
 public interface ITokenService 
 {
-    string GetToken(string key, string issure, UserModel user);
+    string BuildToken(string key, string issure, UserModel user);
 }
