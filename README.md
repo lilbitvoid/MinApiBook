@@ -1,6 +1,6 @@
 ## Minimal API Project
 
-<p align="center">
+<p align="left">
    <img src="https://img.shields.io/badge/platform-.NET%207-blueviolet" alt="Platform">
 </p>
 
