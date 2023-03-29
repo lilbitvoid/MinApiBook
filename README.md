@@ -1,11 +1,7 @@
-<p align="center">
-      <img src="Project Logo Url" width="726">
-</p>
+## Minimal API Project
 
 <p align="center">
-   <img src="" alt="Unity Version">
-   <img src="" alt="Game Version">
-   <img src="" alt="License">
+   <img src="https://img.shields.io/badge/platform-.NET%207-blueviolet" alt="Platform">
 </p>
 
 ## About
