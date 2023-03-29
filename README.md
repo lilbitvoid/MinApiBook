@@ -6,19 +6,12 @@
 
 ## About
 
-About Text Here
+This project uses ASP.NET Core and Entity Framework (PostgreSQL database), Swagger API documentation. The project implements authentication and authorization using a JWT token. This API can execute CRUD operation to database.
 
 ## Documentation
 
 Documentation Here
 
-## Distribute
-
-- [Service Name](Page Link)
-
-
 ## Developers
 
 - [Delevoper Name](GitHub Profile Link)
-
-## License
